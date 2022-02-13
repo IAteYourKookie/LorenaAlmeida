@@ -27,6 +27,10 @@ to draw and my goal is attend to an animation design and graphicdesign school. M
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lorena2026@gmail.com)
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lorena-almeida-bb6a1a1b4/)
 
+## ☘️ Highlight projects
+📚 [Ágoras - Mobile](https://github.com/IAteYourKookie/AgorasMovel)
+🐶 [Pet Costume Store - Web](https://github.com/IAteYourKookie/Fantasia_Pet)
+
 ## 📈 My GitHub Stats:
 
 <p align="left">
