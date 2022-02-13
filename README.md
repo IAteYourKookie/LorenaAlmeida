@@ -1,4 +1,11 @@
-# Lorena Almeida
+# Lorena Almeida´
+## 📈 My GitHub Stats:
+
+<p align="left">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=ShaTeixeira&show_icons=true&theme=vision-friendly-dark" alt="ShaTeixeira's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaTeixeira&layout=compact&theme=vision-friendly-dark" alt="ShaTeixeira's most languages"/>
+</p>
+
 ## 🛠 Skills
 ![CSS](https://camo.githubusercontent.com/4a9a851b7d370a6008fb5b04aa1ace9aefbb3bf9b317e83e9ce3bc0afb170dce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3243384542423f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d637373)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
