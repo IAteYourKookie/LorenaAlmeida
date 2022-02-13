@@ -19,7 +19,9 @@ to draw and my goal is attend to an animation design and graphicdesign school. M
 
 
 ## 🎊 Hobies
-🎸 🎨 🎧
+🎸 to play eletric guitar
+🎨 digital drawing
+🎧 listen to music
 
 ## ☎️ Contact Info
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lorena2026@gmail.com)
