@@ -2,8 +2,8 @@
 ## 📈 My GitHub Stats:
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=ShaTeixeira&show_icons=true&theme=vision-friendly-dark" alt="ShaTeixeira's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaTeixeira&layout=compact&theme=vision-friendly-dark" alt="ShaTeixeira's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=IAteYourKookie&show_icons=true&theme=vision-friendly-dark" alt="IAteYourKookie's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAteYourKookiea&layout=compact&theme=vision-friendly-dark" alt="IAteYourKookie's most languages"/>
 </p>
 
 ## 🛠 Skills
