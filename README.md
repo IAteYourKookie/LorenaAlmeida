@@ -1,1 +1,2 @@
-# LorenaAlmeida
+## Lorena Almeida
+# 🛠 Skills
