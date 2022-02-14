@@ -1,7 +1,7 @@
 # Hey I'm Lorena Almeida :)
 
 ## 🌼 About me
- Hello my name is Lorena, I'm 19yo. Graduated in Information Tachnology ("Informática para Internet Integrado ao Ensino Médio") in IFES. I'm a fast learning person, I love
+ Hello my name is Lorena, I'm 19yo. Graduated in Information Tachnology ("Informática para Internet Integrado ao Ensino Médio") in IFES. I love
 to draw and my goal is attend to an animation design and graphicdesign school. My interests arecreative areas, web design,front-end, character design and others.
 
 ## 🛠 Skills
