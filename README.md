@@ -1,8 +1,7 @@
 # Hey I'm Lorena Almeida :)
 
 ## 🌼 About me
- Hello my name is Lorena, I'm 19yo. Graduated in Information Tachnology ("Informática para Internet Integrado ao Ensino Médio") in IFES. I love
-to draw and my goal is attend to an animation design and graphicdesign school. My interests arecreative areas, web design,front-end, character design and others.
+ Hello my name is Lorena, I'm 19yo. I study graphic design at FAESA, I'm graduated in Information Tachnology ("Informática para Internet Integrado ao Ensino Médio") at IFES. I love to draw and my goal is attend to an animation design school. My interests are creative areas, UX/UI design, web and mobile, front-end, character design and others.
 
 ## 🛠 Skills
 ![CSS](https://camo.githubusercontent.com/4a9a851b7d370a6008fb5b04aa1ace9aefbb3bf9b317e83e9ce3bc0afb170dce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3243384542423f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d637373)
