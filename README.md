@@ -25,10 +25,11 @@
 ## ☎️ Contact Info
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lorena2026@gmail.com)
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lorena-almeida-bb6a1a1b4/)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/lorenaalmeida15)
 
 ## ☘️ Highlight projects
 📚 [Ágoras - Mobile](https://github.com/IAteYourKookie/AgorasMovel) 🐶 [Pet Costume Store - Web](https://github.com/IAteYourKookie/Fantasia_Pet)
-<br> - [Wireframe Redesign](https://www.behance.net/gallery/138669403/Agoras-Redesign-Mobile-UX-Design)
+<br> - [Ágoras Wireframe Redesign](https://www.behance.net/gallery/138669403/Agoras-Redesign-Mobile-UX-Design)
 
 
 ## 📈 My GitHub Stats:
