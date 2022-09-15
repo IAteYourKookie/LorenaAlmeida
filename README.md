@@ -1,7 +1,7 @@
 # Hey I'm Lorena Almeida :)
 
 ## 🌼 About me
- Hello my name is Lorena, I'm 20yo. I study graphic design at FAESA, I'm graduated in Information Technology ("Informática para Internet Integrado ao Ensino Médio") at IFES. I love to draw and my goal is attend to an animation design school. My interests are creative areas, UX/UI design, web and mobile, front-end, character design and others.
+ Hello my name is Lorena, I'm 20yo. I study graphic design at FAESA, I'm graduated in Information Technology ("Informática para Internet Integrado ao Ensino Médio") at IFES. I love to draw and my goal is attend to an animation design school. My interests are creative areas, UX/UI design, web and mobile, front-end, character design and others.<br>
  I work at [SlabWare](https://slabware.com/) we run a software specialized in inventory and sales management for marble and granite businesses. My role in the company is doing design, frontend and backend.
 
 ## 🛠 Skills
@@ -13,6 +13,8 @@ TECHS <br><br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 FRAMEWORKS <br><br>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
