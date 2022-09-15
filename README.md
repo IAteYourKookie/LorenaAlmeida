@@ -1,7 +1,8 @@
 # Hey I'm Lorena Almeida :)
 
 ## 🌼 About me
- Hello my name is Lorena, I'm 19yo. I study graphic design at FAESA, I'm graduated in Information Technology ("Informática para Internet Integrado ao Ensino Médio") at IFES. I love to draw and my goal is attend to an animation design school. My interests are creative areas, UX/UI design, web and mobile, front-end, character design and others.
+ Hello my name is Lorena, I'm 20yo. I study graphic design at FAESA, I'm graduated in Information Technology ("Informática para Internet Integrado ao Ensino Médio") at IFES. I love to draw and my goal is attend to an animation design school. My interests are creative areas, UX/UI design, web and mobile, front-end, character design and others.
+ I work at ![SlabWare](https://slabware.com/) we run a software specialized in inventory and sales management for marble and granite businesses. My role in the company is doing design, frontend and backend.
 
 ## 🛠 Skills
 
@@ -27,7 +28,7 @@ SOFTWARES <br><br>
 
 ## 🎊 Hobies
 🎸 to play eletric guitar
-🎨 digital drawing
+🎨 digital and traditional drawing
 🎧 listen to music
 
 ## ☎️ Contact Info
