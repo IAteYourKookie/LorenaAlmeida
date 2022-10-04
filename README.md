@@ -5,6 +5,10 @@
 
 ## 🛠 Skills
 
+VERSION CONTROL <br><br>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 TECHS <br><br>
 ![CSS](https://camo.githubusercontent.com/4a9a851b7d370a6008fb5b04aa1ace9aefbb3bf9b317e83e9ce3bc0afb170dce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3243384542423f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d637373)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
