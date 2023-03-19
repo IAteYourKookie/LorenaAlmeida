@@ -52,6 +52,8 @@ SOFTWARES <br><br>
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/lorenaalmeida15)
 
 ## ☘️ Highlight projects
+🌱 http://eloengenhariasst.com.br/
+<br>
 📚 [Ágoras - Mobile](https://github.com/IAteYourKookie/AgorasMovel) - [Ágoras Wireframe Redesign](https://www.behance.net/gallery/138669403/Agoras-Redesign-Mobile-UX-Design)
 <br> 🐶 [Pet Costume Store - Web](https://github.com/IAteYourKookie/Fantasia_Pet)
 <br> 🐉 [Pokedex](https://github.com/IAteYourKookie/pokedex)
